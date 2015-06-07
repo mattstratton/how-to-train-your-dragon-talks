@@ -1,14 +1,16 @@
-# Did you know?
+#[fit] How To Train Your(self)
+#[fit]Dragon-Style
+#[fit]To Submit Talks
 
 ---
 
-## Hide your notes
+## whoami
 
-<!-- Sometimes it’s helpful to keep some notes in your document, without having to show them in your presentation. You can use simple HTML-style commenting syntax to do this. -->
+![inline 65%](images/chef.png)![200%](images/ado.png)
+![60%](images/dodchi.png)![50%](images/licenseplate.jpg)
 
-<!-- 
-You can even skip entire slides, without having to delete your thoughts.
+### @mattstratton
+
 ---
-# Maybe this is an awesome slide, but then again, maybe not.
----
--->
+
+# Submitting a talk can be really intimidating
