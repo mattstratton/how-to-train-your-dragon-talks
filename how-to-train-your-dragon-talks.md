@@ -111,6 +111,8 @@ These are great places to try out (short talks), but have some challenges
 
 ^ Volunteer to give the talk at a local meetup first to polish it and make it shine before giving it at a conference.
 
+It can be really helpful and less intimidating to present at an out-of-town meetup where you are not part of that group - you don't have to worry about your reputation (or perceived lack therof) of preceding you.
+
 ---
 #Use the buddy system
 ###Peer reviews
