@@ -112,6 +112,15 @@ These are great places to try out (short talks), but have some challenges
 ^ Volunteer to give the talk at a local meetup first to polish it and make it shine before giving it at a conference.
 
 ---
+#Use the buddy system
+###Peer reviews
+- Co-workers
+- Friends in the community
+- Fust ask the twitters (if you're bold)
+
+^ Bridget Kromhout has all of her blog posts peer-reviewed prior to publishing. Note that this isn't about having someone review your final deck (although that's not a bad idea), but rather getting input on your abstract.
+
+---
 ![](images/audience.jpg)
 #[fit]Q&A is your friend
 
