@@ -144,3 +144,7 @@ ___
 ###Create a "speaker page" on your blog/website
 
 ^ This should include links to your past presentations, as well as a bio page with an area for download of your speaker headshot
+
+---
+
+## What are *your* goals?
