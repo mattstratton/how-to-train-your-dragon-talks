@@ -1,4 +1,3 @@
-build-lists: true
 autoscale: true
 
 #[fit] How To Train Your(self)
@@ -21,7 +20,7 @@ We spend a lot of time with “thought leaders” so we think that we need to ha
 
 ---
 
-#[fit] You don’t have to write the whole talk to submit it
+## You don’t have to write the whole talk <br> to submit it
 
 ^ An abstract is enough. Just come up with an idea. One or two paragraphs is all you need. You don't even need to know that your idea will pan out.
 
