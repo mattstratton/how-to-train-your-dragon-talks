@@ -28,8 +28,6 @@ We spend a lot of time with “thought leaders” so we think that we need to ha
 
 #[fit] You can use a talk to learn something
 
----
-
 ## For example
 - I have a theory about how to build a pipeline to use chef audit mode to test that cookbooks all work nicely together.
 - I don’t have to know exactly HOW to do this to write an abstract
@@ -40,7 +38,7 @@ We spend a lot of time with “thought leaders” so we think that we need to ha
 ## Your abstract doesn't have to be "proven out"
 
 ---
-#[fit]How do I come up with an idea for a talk, anyway?
+## How do I come up with an idea for a talk, anyway?
 
 ---
 #[fit]Your own experience
@@ -57,8 +55,7 @@ We spend a lot of time with “thought leaders” so we think that we need to ha
 ---
 #[fit]Where to submit talks
 
----
-#[fit]Forget about places like Velocity
+##[fit]Forget about places like Velocity
 
 ^ The usual echo chamber can be intimidating and also doesn’t have as much value for Chef or your personal brand. Those folks know who we are.
 
@@ -90,17 +87,13 @@ These are great places to try out (short talks), but have some challenges
 
 ![left](images/paul.jpg)
 
-# You don't have to PREED it
-
-^ This is a reference to J. Paul Reed who wants to have a new talk for every conference he speaks at. This is exhausting.
-
----
-
-# Don't overkill
+# You don't have <br> to PREED it
 
 - Come up with one or two abstracts and submit them everywhere
 - This is how the pros (i.e., Jez) do it
 - Having to create new content for every engagement is exhausting
+
+^ This is a reference to J. Paul Reed who wants to have a new talk for every conference he speaks at. This is exhausting.
 
 ---
 
@@ -123,30 +116,21 @@ It can be really helpful and less intimidating to present at an out-of-town meet
 
 ---
 ![](images/audience.jpg)
-#[fit]Q&A is your friend
+## Q&A is your friend
 
 ^ If you don’t have enough “content” for a full talk, remember that Q&A can really help. This was advice that Nathen Harvey gave to a speaker at ChefConf and also Nicole Johnson suggests the same thing and it’s a good ramp-up.
 
 ---
+![](images/github.png)
 #PROTIP #1
 ##Store all your speaking stuff in a github repo
 
-___
-![](images/github.png)
-
 ---
-#PROTIP #1.1
-###Make all your presentations submobules
+#PROTIPS #1.1 - #1.3
 
-^ This was you can commit/work on them separately and possibly collaborate with someone only on the one talk.
-
----
-#PROTIP #1.2
-###Put your bio text in a text tile in github
-
----
-#PROTIP #1.3
-###Put all your proposals/abstracts in github also
+1. Make all your presentations submodules
+2. Put your bio text in a text tile in github
+3. Put all your proposals/abstracts in github also
 
 ---
 ![right](images/bridget.png)
